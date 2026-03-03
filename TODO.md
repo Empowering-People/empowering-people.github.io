@@ -7,3 +7,4 @@
 - Add questions and answers to faq.html
 - Replace test blog posts with a real one along the lines of "Welcome to our new website!"
 - Add podcast embed to media-appearances.html, as well as other general media appearances that Jodi wants to highlight.
+- Replace placeholder hero banner image.
