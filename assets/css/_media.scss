@@ -1,0 +1,13 @@
+.spotify-embed {
+    display: block;
+    aspect-ratio: 3 / 1;
+    width: 40%;
+    height: auto;
+    margin: auto;
+}
+
+@media (max-width: 768px) {
+    .spotify-embed {
+        width: 60%;
+    }
+}
